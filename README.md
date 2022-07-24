@@ -16,6 +16,7 @@ The data is provided by Metropolitan Transportation Authority (MTA), a public tr
 
 - Query data from SQLite into Python via SQLAlchemy
 - Data Cleaning: remove duplicate rows and null values
+- Calculate daily entries for each station
 - Calculate the total number of entries for each station to highlight the top 5 stations with highest ridership on weekdays and weekends and analyzed the results. 
 
 ## Tools
