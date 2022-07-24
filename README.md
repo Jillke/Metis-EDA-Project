@@ -18,7 +18,9 @@ The data is provided by Metropolitan Transportation Authority (MTA), a public tr
 - Matplotlib for data visualization
 - Pandas for data analysis 
 
-## Results
+## Communication
+
+Presentation slides and codes are in this project's repository.
 
 ![Weekday_Ridership.png](Weekday_Ridership.png)
 ![Weekend_Ridership.png](Weekend_Ridership.png)
