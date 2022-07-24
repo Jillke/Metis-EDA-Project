@@ -12,11 +12,17 @@ The company is planning to launch pop-up stores during the first quarter of 2023
 
 The data is provided by Metropolitan Transportation Authority (MTA), a public transportation corporation in New York City. Datasets are collected from January 2022 to March 2022.
 
+## Algorithms
+
+- Query data from SQLite into Python via SQLAlchemy
+- Data Cleaning: remove duplicate rows and null values
+- Calculate the total number of entries for each station to highlight the top 5 stations with highest ridership on weekdays and weekends and analyzed the results. 
+
 ## Tools
 
-- Connect Python to SQLite database using SQLAlchemy
+- SQLAlchemy
 - Matplotlib for data visualization
-- Pandas for data analysis 
+- Pandas for data analysis
 
 ## Communication
 
